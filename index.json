@@ -1,0 +1,44 @@
+[
+    {
+        "identifier": "nopaper",
+        "aliases": [
+            "nobukkit",
+            "nospigot",
+            "bukkit",
+            "spigot",
+            "paper"
+        ],
+        "url": "tags/nopaper.md"
+    }, {
+        "identifier": "ironfarm",
+        "aliases": [
+            "new_ironfarm"
+        ],
+        "url": "tags/ironfarm.md"
+    }, {
+        "identifier": "ironfarm_old",
+        "aliases": [],
+        "url": "tags/ironfarm_old.md"
+    }, {
+        "identifier": "howmod",
+        "aliases": [
+            "howrole"
+        ],
+        "url": "tags/howmod.md"
+    }, {
+        "identifier": "datapack",
+        "aliases": [
+            "forced_growth_datapack",
+            "forcedgrowth"
+        ],
+        "url": "tags/datapack.md"
+    }, {
+        "identifier": "zerotick",
+        "aliases": [],
+        "url": "tags/zerotick.md"
+    }, {
+        "identifier": "shakysand",
+        "aliases": [],
+        "url": "tags/shakysand.md"
+    }
+]
