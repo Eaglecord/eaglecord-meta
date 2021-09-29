@@ -40,5 +40,11 @@
         "identifier": "shakysand",
         "aliases": [],
         "url": "tags/shakysand.md"
+    }, {
+        "identifier": "error",
+        "aliases": [
+            "readtheerror"
+        ],
+        "url": "tags/single-line/readtheerror.md"
     }
 ]
