@@ -61,10 +61,16 @@
         ],
         "url": "tags/tournament/rules.md"
     }, {
-        "identifier": "tournament-modes",
+        "identifier": "tournament-modes-1",
         "aliases": [
-            "categories"
+            "categories-1"
         ],
-        "url": "tags/tournament/modes.md"
+        "url": "tags/tournament/modes1.md"
+    }, {
+        "identifier": "tournament-modes-2",
+        "aliases": [
+            "categories-2"
+        ],
+        "url": "tags/tournament/modes2.md"
     }
 ]
