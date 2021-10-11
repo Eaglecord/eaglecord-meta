@@ -46,5 +46,25 @@
             "readtheerror"
         ],
         "url": "tags/single-line/readtheerror.md"
+    }, {
+        "identifier": "tournament",
+        "aliases": [
+            "tourney"
+        ],
+        "url": "tags/tournament/main.md"
+    }, {
+        "identifier": "tournament-rules",
+        "aliases": [
+            "tourney-rules",
+            "tournament rules",
+            "tourney rules"
+        ],
+        "url": "tags/tournament/rules.md"
+    }, {
+        "identifier": "tournament-modes",
+        "aliases": [
+            "categories"
+        ],
+        "url": "tags/tournament/modes.md"
     }
 ]
