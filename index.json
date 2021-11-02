@@ -76,8 +76,7 @@
         "identifier": "pvp-clients",
         "aliases": [
             "lunar",
-            "badlion",
-            "optifine"
+            "badlion"
         ],
         "url": "tags/pvp-clients.md"
     }
