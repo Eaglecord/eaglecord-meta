@@ -72,5 +72,13 @@
             "categories-2"
         ],
         "url": "tags/tournament/modes2.md"
+    }, {
+        "identifier": "pvp-clients",
+        "aliases": [
+            "lunar",
+            "badlion",
+            "optifine"
+        ],
+        "url": ""
     }
 ]
