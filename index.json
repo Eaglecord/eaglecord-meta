@@ -22,7 +22,9 @@
     }, {
         "identifier": "howmod",
         "aliases": [
-            "howrole"
+            "howrole",
+            "youdont",
+            "yd"
         ],
         "url": "tags/howmod.md"
     }, {
