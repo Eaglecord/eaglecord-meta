@@ -81,5 +81,15 @@
             "badlion"
         ],
         "url": "tags/pvp-clients.md"
+    }, {
+        "identifier": "falsestatementsoffact",
+        "aliases": [
+            "player",
+            "false-statements-of-fact",
+            "falsestatements",
+            "false-statements",
+            "false"
+        ],
+        "url": "tags/single-line/falsestatementsoffact.md"
     }
 ]
