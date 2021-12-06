@@ -9,93 +9,93 @@
                 "spigot",
                 "paper"
             ],
-            "url": "tags/nopaper.md"
-        },
-        {
+            "url": "tags/nopaper.md",
+            "isEmbed": false
+        }, {
             "identifier": "ironfarm",
             "aliases": [
                 "new_ironfarm"
             ],
-            "url": "tags/ironfarm.md"
-        },
-        {
+            "url": "tags/ironfarm.md",
+            "isEmbed": false
+        }, {
             "identifier": "ironfarm_old",
             "aliases": [],
-            "url": "tags/ironfarm_old.md"
-        },
-        {
+            "url": "tags/ironfarm_old.md",
+            "isEmbed": false
+        }, {
             "identifier": "howmod",
             "aliases": [
                 "howrole",
                 "youdont",
                 "yd"
             ],
-            "url": "tags/howmod.md"
-        },
-        {
+            "url": "tags/howmod.md",
+            "isEmbed": false
+        }, {
             "identifier": "datapack",
             "aliases": [
                 "forced_growth_datapack",
                 "forcedgrowth"
             ],
-            "url": "tags/datapack.md"
-        },
-        {
+            "url": "tags/datapack.md",
+            "isEmbed": false
+        }, {
             "identifier": "zerotick",
             "aliases": [],
-            "url": "tags/zerotick.md"
-        },
-        {
+            "url": "tags/zerotick.md",
+            "isEmbed": false
+        }, {
             "identifier": "shakysand",
             "aliases": [],
-            "url": "tags/shakysand.md"
-        },
-        {
+            "url": "tags/shakysand.md",
+            "isEmbed": false
+        }, {
             "identifier": "error",
             "aliases": [
                 "readtheerror"
             ],
-            "url": "tags/single-line/readtheerror.md"
-        },
-        {
+            "url": "tags/single-line/readtheerror.md",
+            "isEmbed": false
+        }, {
             "identifier": "tournament",
             "aliases": [
                 "tourney"
             ],
-            "url": "tags/tournament/main.md"
-        },
-        {
+            "url": "tags/tournament/main.md",
+            "isEmbed": false
+        }, {
             "identifier": "tournament-rules",
             "aliases": [
                 "tourney-rules",
                 "tournament rules",
                 "tourney rules"
             ],
-            "url": "tags/tournament/rules.md"
-        },
-        {
+            "url": "tags/tournament/rules.md",
+            "isEmbed": false
+        }, {
             "identifier": "tournament-modes-1",
             "aliases": [
                 "categories-1"
             ],
-            "url": "tags/tournament/modes1.md"
-        },
-        {
+            "url": "tags/tournament/modes1.md",
+            "isEmbed": false
+        }, {
             "identifier": "tournament-modes-2",
             "aliases": [
                 "categories-2"
             ],
-            "url": "tags/tournament/modes2.md"
-        },
-        {
+            "url": "tags/tournament/modes2.md",
+            "isEmbed": false
+        }, {
             "identifier": "pvp-clients",
             "aliases": [
                 "lunar",
                 "badlion"
             ],
-            "url": "tags/pvp-clients.md"
-        },
-        {
+            "url": "tags/pvp-clients.md",
+            "isEmbed": false
+        }, {
             "identifier": "falsestatementsoffact",
             "aliases": [
                 "player",
@@ -104,7 +104,8 @@
                 "false-statements",
                 "false"
             ],
-            "url": "tags/single-line/falsestatementsoffact.md"
+            "url": "tags/single-line/falsestatementsoffact.md",
+            "isEmbed": false
         }
     ]
 }
