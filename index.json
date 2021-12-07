@@ -84,19 +84,11 @@
             "isEmbed": true,
             "isPaged": false
         }, {
-            "identifier": "tournament-modes-1",
+            "identifier": "tournament-modes",
             "aliases": [
-                "categories-1"
+                "categories"
             ],
-            "url": "tags/tournament/modes1.md",
-            "isEmbed": true,
-            "isPaged": true
-        }, {
-            "identifier": "tournament-modes-2",
-            "aliases": [
-                "categories-2"
-            ],
-            "url": "tags/tournament/modes2.md",
+            "url": "tags/tournament/modes.md",
             "isEmbed": true,
             "isPaged": true
         }, {
