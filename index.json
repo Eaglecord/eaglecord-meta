@@ -10,7 +10,7 @@
                 "paper"
             ],
             "url": "tags/nopaper.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "ironfarm",
@@ -18,13 +18,13 @@
                 "new_ironfarm"
             ],
             "url": "tags/ironfarm.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "ironfarm_old",
             "aliases": [],
             "url": "tags/ironfarm_old.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "howmod",
@@ -34,7 +34,7 @@
                 "yd"
             ],
             "url": "tags/howmod.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "datapack",
@@ -43,19 +43,19 @@
                 "forcedgrowth"
             ],
             "url": "tags/datapack.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "zerotick",
             "aliases": [],
             "url": "tags/zerotick.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "shakysand",
             "aliases": [],
             "url": "tags/shakysand.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "error",
@@ -71,7 +71,7 @@
                 "tourney"
             ],
             "url": "tags/tournament/main.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "tournament-rules",
@@ -81,7 +81,7 @@
                 "tourney rules"
             ],
             "url": "tags/tournament/rules.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "tournament-modes-1",
@@ -89,16 +89,16 @@
                 "categories-1"
             ],
             "url": "tags/tournament/modes1.md",
-            "isEmbed": false,
-            "isPaged": false
+            "isEmbed": true,
+            "isPaged": true
         }, {
             "identifier": "tournament-modes-2",
             "aliases": [
                 "categories-2"
             ],
             "url": "tags/tournament/modes2.md",
-            "isEmbed": false,
-            "isPaged": false
+            "isEmbed": true,
+            "isPaged": true
         }, {
             "identifier": "pvp-clients",
             "aliases": [
@@ -106,7 +106,7 @@
                 "badlion"
             ],
             "url": "tags/pvp-clients.md",
-            "isEmbed": false,
+            "isEmbed": true,
             "isPaged": false
         }, {
             "identifier": "falsestatementsoffact",
