@@ -29,7 +29,6 @@
     - Lesbian: red, orange, white, pink, magenta
     - Bi: magenta, magenta, purple, purple, blue, blue
     - Trans: light blue, pink, white, pink, light blue
-    - 
 
 - **Train Station:** Make any redstone circuit using at least one powered rail, one note block and one observer.
 
