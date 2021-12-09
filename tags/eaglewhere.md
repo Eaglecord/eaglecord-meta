@@ -2,7 +2,8 @@
 
 Not really. He just went inactive.
 
-He was last seen messaging on 23th July 2021 A.D. https://discord.com/channels/589605130723262491/621208847121645568/867883294447370291 \
+He was last seen messaging on 23th July 2021 A.D. \
+https://discord.com/channels/589605130723262491/621208847121645568/867883294447370291 \
 *"diamond is compressed carbon, so if you had the right kind of press... sure... but it would crazy expensive to do and be a terrible idea as it would shatter if you tried to use it"*\
 *"Artificial diamonds are a thing right now but they are incredibly small and 'wrong-shaped' toward what you are thinking..."* \
 We must memorize these wise words till the day we die.
