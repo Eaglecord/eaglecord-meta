@@ -123,6 +123,15 @@
             "url": "tags/eaglewhere.md",
             "isEmbed": true,
             "isPaged": false
+        }, {
+            "identifier": "redstone",
+            "aliases": [
+                "redstone_pasta",
+                "shulkercraft"
+            ],
+            "url": "tags/redstone.md",
+            "isEmbed": true,
+            "isPaged": false
         }
     ]
 }
