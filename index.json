@@ -132,6 +132,15 @@
             "url": "tags/redstone.md",
             "isEmbed": true,
             "isPaged": false
+        }, {
+            "identifier": "misinformation",
+            "aliases": [
+                "misleading",
+                "untrue"
+            ],
+            "url": "tags/single-line/misinformation.md",
+            "isEmbed": false,
+            "isPaged": false
         }
     ]
 }
