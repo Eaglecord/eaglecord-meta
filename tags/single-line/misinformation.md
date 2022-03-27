@@ -1,1 +1,1 @@
-https://cdn.discordapp.com/attachments/843783154170462268/957676971897258044/unknown.png
+https://media.discordapp.net/attachments/621207887578136586/957687859295440916/unknown.png
