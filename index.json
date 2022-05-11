@@ -6,8 +6,7 @@
                 "nobukkit",
                 "nospigot",
                 "bukkit",
-                "spigot",
-                "paper"
+                "spigot"
             ],
             "url": "tags/nopaper.md",
             "isEmbed": true,
@@ -140,6 +139,14 @@
             ],
             "url": "tags/single-line/misinformation.md",
             "isEmbed": false,
+            "isPaged": false
+        }, {
+            "identifier": "paper",
+            "aliases": [
+                "paper_pasta"
+            ],
+            "url": "tags/paper.md",
+            "isEmbed": true,
             "isPaged": false
         }
     ]
