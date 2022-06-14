@@ -148,14 +148,6 @@
             "url": "tags/paper.md",
             "isEmbed": true,
             "isPaged": false
-        }, {
-            "identifier": "test",
-            "aliases": [
-                "testtag"
-            ],
-            "url": "tags/single-line/falsestatementsoffact.md",
-            "isEmbed": true,
-            "isPaged": false
         }
     ]
 }
