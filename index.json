@@ -148,6 +148,14 @@
             "url": "tags/paper.md",
             "isEmbed": true,
             "isPaged": false
+        }, {
+            "identifier": "mojank",
+            "aliases": [
+                "memory"
+            ],
+            "url": "tags/single-line/mojank.md",
+            "isEmbed": false,
+            "isPaged": false
         }
     ]
 }
