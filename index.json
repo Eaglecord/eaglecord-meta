@@ -63,15 +63,6 @@
         "isPaged": false
     },
     {
-        "identifier": "error",
-        "aliases": [
-            "readtheerror"
-        ],
-        "url": "tags/single-line/readtheerror.md",
-        "isEmbed": false,
-        "isPaged": false
-    },
-    {
         "identifier": "tournament",
         "aliases": [
             "tourney"
