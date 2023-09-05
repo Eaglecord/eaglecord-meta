@@ -1,161 +1,176 @@
-{
-    "index": [
-        {
-            "identifier": "nopaper",
-            "aliases": [
-                "nobukkit",
-                "nospigot",
-                "bukkit",
-                "spigot"
-            ],
-            "url": "tags/nopaper.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "ironfarm",
-            "aliases": [
-                "new_ironfarm"
-            ],
-            "url": "tags/ironfarm.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "ironfarm_old",
-            "aliases": [],
-            "url": "tags/ironfarm_old.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "howmod",
-            "aliases": [
-                "howrole",
-                "youdont",
-                "yd"
-            ],
-            "url": "tags/howmod.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "datapack",
-            "aliases": [
-                "forced_growth_datapack",
-                "forcedgrowth"
-            ],
-            "url": "tags/datapack.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "zerotick",
-            "aliases": [],
-            "url": "tags/zerotick.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "shakysand",
-            "aliases": [],
-            "url": "tags/shakysand.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "error",
-            "aliases": [
-                "readtheerror"
-            ],
-            "url": "tags/single-line/readtheerror.md",
-            "isEmbed": false,
-            "isPaged": false
-        }, {
-            "identifier": "tournament",
-            "aliases": [
-                "tourney"
-            ],
-            "url": "tags/tournament/main.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "tournament-rules",
-            "aliases": [
-                "tourney-rules",
-                "tournament rules",
-                "tourney rules"
-            ],
-            "url": "tags/tournament/rules.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "tournament-modes",
-            "aliases": [
-                "categories"
-            ],
-            "url": "tags/tournament/modes.md",
-            "isEmbed": true,
-            "isPaged": true
-        }, {
-            "identifier": "pvp-clients",
-            "aliases": [
-                "lunar",
-                "badlion"
-            ],
-            "url": "tags/pvp-clients.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "falsestatementsoffact",
-            "aliases": [
-                "player",
-                "false-statements-of-fact",
-                "falsestatements",
-                "false-statements",
-                "false"
-            ],
-            "url": "tags/single-line/falsestatementsoffact.md",
-            "isEmbed": false,
-            "isPaged": false
-        }, {
-            "identifier": "eaglewhere",
-            "aliases": [
-                "whereeagle",
-                "eagle",
-                "eagleeye",
-                "eagleeye621"
-            ],
-            "url": "tags/eaglewhere.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "redstone",
-            "aliases": [
-                "redstone_pasta",
-                "shulkercraft"
-            ],
-            "url": "tags/redstone.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "misinformation",
-            "aliases": [
-                "misleading",
-                "untrue"
-            ],
-            "url": "tags/single-line/misinformation.md",
-            "isEmbed": false,
-            "isPaged": false
-        }, {
-            "identifier": "paper",
-            "aliases": [
-                "paper_pasta"
-            ],
-            "url": "tags/paper.md",
-            "isEmbed": true,
-            "isPaged": false
-        }, {
-            "identifier": "mojank",
-            "aliases": [
-                "memory"
-            ],
-            "url": "tags/single-line/mojank.md",
-            "isEmbed": false,
-            "isPaged": false
-        }
-    ]
-}
+[
+    {
+        "identifier": "nopaper",
+        "aliases": [
+            "nobukkit",
+            "nospigot",
+            "bukkit",
+            "spigot"
+        ],
+        "url": "tags/nopaper.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "ironfarm",
+        "aliases": [
+            "new_ironfarm"
+        ],
+        "url": "tags/ironfarm.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "ironfarm_old",
+        "aliases": [],
+        "url": "tags/ironfarm_old.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "howmod",
+        "aliases": [
+            "howrole",
+            "youdont",
+            "yd"
+        ],
+        "url": "tags/howmod.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "datapack",
+        "aliases": [
+            "forced_growth_datapack",
+            "forcedgrowth"
+        ],
+        "url": "tags/datapack.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "zerotick",
+        "aliases": [],
+        "url": "tags/zerotick.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "shakysand",
+        "aliases": [],
+        "url": "tags/shakysand.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "error",
+        "aliases": [
+            "readtheerror"
+        ],
+        "url": "tags/single-line/readtheerror.md",
+        "isEmbed": false,
+        "isPaged": false
+    },
+    {
+        "identifier": "tournament",
+        "aliases": [
+            "tourney"
+        ],
+        "url": "tags/tournament/main.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "tournament-rules",
+        "aliases": [
+            "tourney-rules",
+            "tournament rules",
+            "tourney rules"
+        ],
+        "url": "tags/tournament/rules.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "tournament-modes",
+        "aliases": [
+            "categories"
+        ],
+        "url": "tags/tournament/modes.md",
+        "isEmbed": true,
+        "isPaged": true
+    },
+    {
+        "identifier": "pvp-clients",
+        "aliases": [
+            "lunar",
+            "badlion"
+        ],
+        "url": "tags/pvp-clients.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "falsestatementsoffact",
+        "aliases": [
+            "player",
+            "false-statements-of-fact",
+            "falsestatements",
+            "false-statements",
+            "false"
+        ],
+        "url": "tags/single-line/falsestatementsoffact.md",
+        "isEmbed": false,
+        "isPaged": false
+    },
+    {
+        "identifier": "eaglewhere",
+        "aliases": [
+            "whereeagle",
+            "eagle",
+            "eagleeye",
+            "eagleeye621"
+        ],
+        "url": "tags/eaglewhere.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "redstone",
+        "aliases": [
+            "redstone_pasta",
+            "shulkercraft"
+        ],
+        "url": "tags/redstone.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "misinformation",
+        "aliases": [
+            "misleading",
+            "untrue"
+        ],
+        "url": "tags/single-line/misinformation.md",
+        "isEmbed": false,
+        "isPaged": false
+    },
+    {
+        "identifier": "paper",
+        "aliases": [
+            "paper_pasta"
+        ],
+        "url": "tags/paper.md",
+        "isEmbed": true,
+        "isPaged": false
+    },
+    {
+        "identifier": "mojank",
+        "aliases": [
+            "memory"
+        ],
+        "url": "tags/single-line/mojank.md",
+        "isEmbed": false,
+        "isPaged": false
+    }
+]
