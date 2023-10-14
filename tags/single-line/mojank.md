@@ -1,1 +1,1 @@
-https://media.discordapp.net/attachments/621208847121645568/1030896173667586108/unknown.png
+https://raw.githubusercontent.com/Eaglecord/eaglecord-meta/main/tags/single-line/images/mojank.png
