@@ -1,1 +1,1 @@
-https://images-ext-1.discordapp.net/external/TDPDx8AGv7Aw5fujRSg7qgRmYiVK1zubnw91ikqlJ1Q/https/media.discordapp.net/attachments/589605130723262506/910131211064729630/firefox_2021-04-06_01-10-31.png?width=336&height=48
+https://raw.githubusercontent.com/Eaglecord/eaglecord-meta/main/tags/single-line/images/falsestatementsoffact.png
